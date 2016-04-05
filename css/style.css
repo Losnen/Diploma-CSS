@@ -1,0 +1,42 @@
+#pagina {
+  border: 10px groove grey;
+  border-radius: 6px;
+  padding: 15px;
+  background:beige;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+}
+
+h2 {
+  font-family: 'Dosis', sans-serif;
+}
+
+#firma {
+  text-align: center;
+  display: inline-block;
+  margin-top: 20px;
+  font-family: 'Indie Flower', cursive;
+}
+p{
+  text-align:center;
+}
+
+#sello {
+  margin-top: 10px;
+  margin-left: 25px;
+  width: 90px;
+}
+
+.lista {
+  list-style-type: none;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: -10px;
+}
